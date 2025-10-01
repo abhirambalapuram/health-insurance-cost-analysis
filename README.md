@@ -37,3 +37,15 @@ Linear Regression: R² around 0.75–0.80, RMSE around 6000–8000, MAE around 4
 Key signal: smoker=yes is the strongest driver of higher charges; BMI and age also increase costs
 
 Exact numbers may vary depending on environment and random split.
+
+## Outputs
+
+Predicted vs Actual scatter plot and residuals plot
+
+Coefficient table with feature names (after encoding)
+
+Group summaries (e.g., average charges for smokers vs non-smokers)
+
+## Tech Stack
+
+Python, pandas, NumPy, scikit-learn, matplotlib
