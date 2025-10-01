@@ -12,9 +12,7 @@ Report metrics (R², RMSE, MAE) and interpret coefficients
 
 ## Dataset
 
-Source: Kaggle “Medical Cost Personal Dataset” (mirichoi0218)
-
-Public raw mirror used in notebook: stedy/Machine-Learning-with-R-datasets/insurance.csv
+Source: https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
 
 Columns: age, sex, bmi, children, smoker, region, charges
 
